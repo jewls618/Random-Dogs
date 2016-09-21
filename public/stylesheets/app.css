@@ -1,0 +1,19 @@
+body {
+  background: black;
+  margin: 0px;
+}
+h1 {
+  color: magenta;
+  display: block;
+  margin: 20px;
+}
+img {
+  border: 1px solid #000000;
+  background: #2d2d2d;
+  border: 1px solid #ddd;
+  margin: 20px;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
